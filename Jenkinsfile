@@ -58,7 +58,7 @@ expression { env.GIT_BRANCH == 'origin/main' }
 
 steps {
 
-echo 'Deploying...'
+echo 'Step not executed...'
 
 }
 
